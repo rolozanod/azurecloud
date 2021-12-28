@@ -2,6 +2,10 @@ install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 
+install-az:
+	pip install --upgrade pip &&\
+		pip install -r requirements_az.txt
+
 install-gcp:
 	pip install --upgrade pip &&\
 		pip install -r requirements-gcp.txt
