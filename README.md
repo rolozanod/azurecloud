@@ -1,6 +1,6 @@
-# Multicloud integration
-
 [![Azure CI](https://github.com/rolozanod/azurecloud/actions/workflows/main.yml/badge.svg)](https://github.com/rolozanod/azurecloud/actions/workflows/main.yml)
+
+# Multicloud integration
 
 1. Started the task by downloading the [sample code](https://github.com/noahgift/github-actions-demo) from [Noah's repo](https://github.com/noahgift).
 2. Created a repo on [my GitHub account](https://github.com/rolozanod) to host the sample code.
