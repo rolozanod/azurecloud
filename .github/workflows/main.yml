@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell to set up Python
       - name: Set up Python 3.7.3
-        uses: actions/python@v1
+        uses: actions/setup-python@v1
         with:
           python-version: 3.7.3
 
