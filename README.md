@@ -1,4 +1,5 @@
 [![Azure CI](https://github.com/rolozanod/azurecloud/actions/workflows/main.yml/badge.svg)](https://github.com/rolozanod/azurecloud/actions/workflows/main.yml)
+[![AWS CI](https://github.com/rolozanod/azurecloud/actions/workflows/main_aws.yml/badge.svg)](https://github.com/rolozanod/azurecloud/actions/workflows/main_aws.yml)
 
 # Multicloud integration
 
